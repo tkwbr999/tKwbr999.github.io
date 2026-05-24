@@ -2,6 +2,15 @@ import { WorkItem } from '../types';
 
 export const worksData: WorkItem[] = [
   {
+    id: 'project0',
+    title: '$5 Short Text Summary',
+    description:
+      '短い文章や議事録を5ドルで要約する小さな実験サービス。依頼受付、スコープ確認、要約納品、請求までを最小構成で検証しています。',
+    role: '企画 / 自動化設計 / Codex活用 / 小規模サービス運用',
+    publications: ['Monthly $5 automation experiment'],
+    link: 'https://tkwbr999.github.io/monthly5-offer/',
+  },
+  {
     id: 'project1',
     title: 'Goチートシート（日本語版）',
     description:
