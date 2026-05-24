@@ -539,6 +539,9 @@ const Contact = () => {
               <ResourceLink href="https://zenn.dev/tkwbr999" target="_blank">
                 <SiZenn /> 技術記事一覧
               </ResourceLink>
+              <ResourceLink href="https://tkwbr999.github.io/monthly5-offer/" target="_blank">
+                <FaRegStickyNote /> $5 Short Text Summary
+              </ResourceLink>
             </ResourcesContainer>
           </InfoBlock>
         </ContactInfo>
